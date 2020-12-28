@@ -1,0 +1,6 @@
+﻿name,description,units,type
+dt_col,A Datetime column,NA,dt
+int_col,An integer column,NA,Int16
+float_col,A float column,NA,float
+flag_col,A flag column - stored as 1/blank format in CSV,NA,bool_flag
+text_col,A text column,NA,object
